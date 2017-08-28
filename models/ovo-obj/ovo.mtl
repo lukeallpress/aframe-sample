@@ -1,0 +1,135 @@
+# Blender MTL File: 'None'
+# Material Count: 13
+
+newmtl Book_Cover_Black
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd AMR-39-47.jpg
+
+newmtl Book_Cover_FightClub
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Fight-Club-1999-Br.jpg
+
+newmtl Book_Cover_Green
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd boyet-300dpi100web.jpg
+
+newmtl Book_Cover_Old_Green
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd OldDesignShop_NaturalHistory1864Cover.jpg
+
+newmtl Clear_Coat_Plastic
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.234800 0.232901 0.232901
+Ks 0.027843 0.027843 0.027843
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dull_Plastic
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.170820 0.174909 0.169819
+Ks 0.013725 0.013333 0.013333
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump NoiseBump.jpg
+
+newmtl MatrixRainWall
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.690196 0.690196
+Ks 0.100000 0.100000 0.100000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd matrix.jpg
+
+newmtl Wood1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.014902 0.009804 0.006275
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd AfricanEbonyBoards-ColorMap.png
+
+newmtl Wood_Light
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.010980 0.009804 0.009412
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd WoodLight_COLOR.png
+
+newmtl base1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.023000 0.023000 0.023000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump base_bump.jpg
+map_Kd base_color.jpg
+
+newmtl frame1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.584314 0.584314
+Ks 0.011000 0.011000 0.011000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump frame_bump.jpg
+map_Kd frame_color.jpg
+
+newmtl legs1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.588235 0.588235 0.588235
+Ks 0.089804 0.089804 0.089804
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump legs_bump.jpg
+map_Kd legs_color.jpg
+
+newmtl seat1
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.937255 0.658824 0.658824
+Ks 0.016000 0.016000 0.016000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump seat_bump.jpg
+map_Kd seat_color.jpg
