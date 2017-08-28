@@ -29,4 +29,4 @@ And then using the asset ```id``` and as your ```a-obj-model ``` ```src``` and `
 <a-obj-model src="#couchobj" mtl="#couchmtl" position="-23 -10 -8" scale="7 7 7"></a-obj-model>
 ```
 
-This lab is open ended so feel free to get as imaginative a you want. Pinterest has some great [apartment inspo](https://www.pinterest.com/saraseven/tiny-apartment-inspiration/?lp=true). Example code for a dream apartment can be found [here](https://github.com/melaniep518/aframe-dream-apt).
+This lab is open ended so feel free to get as imaginative a you want. Pinterest has some great [apartment inspo](https://www.pinterest.com/saraseven/tiny-apartment-inspiration/?lp=true). A dream apartment example can be found [here](https://melaniep518.github.io/dream-apt/).
